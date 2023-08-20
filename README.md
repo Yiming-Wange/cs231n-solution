@@ -1,5 +1,4 @@
 # Recommended Open Course: Stanford University Computer Vision CS231n 2023
-================================================================
 In 2023, I personally believe that if you know Python, investing some time in learning deep learning can yield significant returns. This CS231n course has been the best experience I've had among the self-studied courses from reputable institutions. The slides, notes, and assignment guides are all excellently crafted, showing the immense effort put in by the Feifei Li Lab team for this course.
 
 This course primarily focuses on computer vision as an introductory course to deep learning. Visual inputs in deep learning, often represented as "tensors" (which might not be mathematically accurate), are mostly intuitive three-channel two-dimensional arrays. This format is both intuitive and natural for matrix operations, making it more conducive to teaching and guiding intuition, facilitating deeper learning in the future.
